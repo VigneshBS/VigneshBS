@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VigneshBS
 - 👀 I’m interested in web and app development
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning blockchain
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me vigneshbs1562@gmail.com
 
